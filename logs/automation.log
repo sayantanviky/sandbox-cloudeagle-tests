@@ -1,0 +1,29 @@
+04:30:27.478 [main] INFO  testCases.DashboardTest - ******* Going to alerts section and choosing alert category of Applications below 70% usage **********
+04:30:30.834 [main] INFO  testCases.DashboardTest - ****** Automating to test action item Ignore *******
+04:30:43.990 [main] INFO  testCases.DashboardNavTest - ***** Capturing the number displayed under 'Managed Applications' *******
+04:30:45.648 [main] INFO  testCases.DashboardNavTest - ***** Click on the 'Managed Applications' Card ********
+04:30:45.801 [main] INFO  testCases.DashboardNavTest - ****** Count the total number of applications listed *******
+04:30:45.858 [main] INFO  testCases.DashboardNavTest - ****** Compare Counts 'Assert that countFromDashboard == countFromApplicationPage'.************
+04:32:17.224 [main] INFO  testCases.UserLoginTest - ************************Test case for valid login flow is starting********************************
+04:32:35.832 [main] INFO  testCases.DashboardTest - ******* Going to alerts section and choosing alert category of Applications below 70% usage **********
+04:32:39.546 [main] INFO  testCases.DashboardTest - ****** Automating to test action item Ignore *******
+04:32:59.336 [main] INFO  testCases.DashboardNavTest - ***** Capturing the number displayed under 'Managed Applications' *******
+04:33:01.073 [main] INFO  testCases.DashboardNavTest - ***** Click on the 'Managed Applications' Card ********
+04:33:01.325 [main] INFO  testCases.DashboardNavTest - ****** Count the total number of applications listed *******
+04:33:01.385 [main] INFO  testCases.DashboardNavTest - ****** Compare Counts 'Assert that countFromDashboard == countFromApplicationPage'.************
+05:31:54.867 [main] INFO  testCases.UserLoginTest - ************************Test case for valid login flow is starting********************************
+05:32:14.137 [main] INFO  testCases.DashboardTest - ******* Going to alerts section and choosing alert category of Applications below 70% usage **********
+05:32:17.999 [main] INFO  testCases.DashboardTest - ****** Automating to test action item Ignore *******
+05:32:38.362 [main] INFO  testCases.DashboardNavTest - ***** Capturing the number displayed under 'Managed Applications' *******
+05:32:40.011 [main] INFO  testCases.DashboardNavTest - ***** Click on the 'Managed Applications' Card ********
+05:32:40.250 [main] INFO  testCases.DashboardNavTest - ****** Count the total number of applications listed *******
+05:32:40.334 [main] INFO  testCases.DashboardNavTest - ****** Compare Counts 'Assert that countFromDashboard == countFromApplicationPage'.************
+05:32:51.251 [main] INFO  testCases.DashboardNavTest - ********************** Test Finished ***********************
+05:48:43.133 [main] INFO  testCases.UserLoginTest - ************************Test case for valid login flow is starting********************************
+05:49:07.912 [main] INFO  testCases.DashboardTest - ******* Going to alerts section and choosing alert category of Applications below 70% usage **********
+05:49:11.801 [main] INFO  testCases.DashboardTest - ****** Automating to test action item Ignore *******
+05:49:39.253 [main] INFO  testCases.DashboardNavTest - ***** Capturing the number displayed under 'Managed Applications' *******
+05:49:41.730 [main] INFO  testCases.DashboardNavTest - ***** Click on the 'Managed Applications' Card ********
+05:49:42.424 [main] INFO  testCases.DashboardNavTest - ****** Count the total number of applications listed *******
+05:49:42.670 [main] INFO  testCases.DashboardNavTest - ****** Compare Counts 'Assert that countFromDashboard == countFromApplicationPage'.************
+05:49:53.388 [main] INFO  testCases.DashboardNavTest - ********************** Test Finished ***********************

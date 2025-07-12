@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="sandboxCloudEagle" parallel="false">
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+
+  <test name="Login Test and Dashboard Test">
+    <classes>
+      <class name="testCases.UserLoginTest"/>
+      <class name="testCases.DashboardTest"/>
+      <class name="testCases.DashboardNavTest"/>
+    </classes>
+  </test>
+
+</suite>
